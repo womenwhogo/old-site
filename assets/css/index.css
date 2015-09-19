@@ -1,0 +1,30 @@
+.header {
+	margin-top: 2%;
+}
+
+.main-img {
+	max-width: 100%;
+}
+
+.container {
+	max-width: 700px;
+}
+
+.links {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.row {
+	padding-bottom: 10px;
+}
+
+.link {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.link img {
+	max-width: 100%;
+	max-height: 60px;
+}
